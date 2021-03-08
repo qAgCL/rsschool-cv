@@ -1,5 +1,6 @@
 # Git-Markdown-Task in RSSchools
 ## Zahar Rubanov
+![Profile image](https://user-images.githubusercontent.com/45242742/110379774-4bb46600-8068-11eb-9fa6-e6558e15d55e.png)
 ## Contact info:
     agcl3228@gmail.com
     +375-29-367-52-07
