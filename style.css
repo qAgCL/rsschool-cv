@@ -1,0 +1,22 @@
+body{
+	max-width: 1024px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+img{
+	width: 250px;
+	height: 450px;
+}
+
+.code{
+    margin-top: 5px;
+    display: inline-block;
+}
+
+ul{
+    margin-top: 3px;
+    margin-bottom: 3px;	
+    display:inline-block;
+    max-width:300px;
+}
